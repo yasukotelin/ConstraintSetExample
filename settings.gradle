@@ -1,0 +1,3 @@
+rootProject.name='ConstraintSetExample'
+include ':app'
+include ':ui_main'

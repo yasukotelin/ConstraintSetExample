@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_icon_image">Account icon image</string>
+    <string name="user_name">User name</string>
+    <string name="short_description">This is short description</string>
+    <string name="long_description">This is long description. ImageView and User name are moved with animation.</string>
+    <string name="back_allow">back allow</string>
+    <string name="full_name">first_name last_name</string>
+</resources>
